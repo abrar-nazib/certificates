@@ -101,3 +101,12 @@ This repository is a gallery where I store the digital copy of all of my certifi
 ![mudrover](./contents/participation/mte_22_lfr.jpg)
 
 ---
+
+|                 |                  |
+| --------------- | ---------------- |
+| **Event:**      | Mud Rover Racing |
+| **Issue Date:** | 02 July, 2022    |
+
+![mudrover](./contents/participation/mte_22_mud.jpg)
+
+---
