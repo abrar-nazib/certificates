@@ -2,6 +2,25 @@
 
 This repository is a gallery where I store the digital copy of all of my certificates.
 
+## **Courses**
+
+### **Supervised Machine Learning: Regression & Classification**
+
+|                 |                                       |
+| --------------- | ------------------------------------- |
+| **Issuer:**     | Stanford University & Deeplearning.ai |
+| **Platform:**   | Coursera                              |
+| **Score:**      | 100%                                  |
+| **Issue Date:** | 01 March, 2023                        |
+
+![course_certificate](./contents/course/coursera_ml_1.png)
+
+---
+
+---
+
+---
+
 ## **Awards**
 
 ---
@@ -39,14 +58,6 @@ This repository is a gallery where I store the digital copy of all of my certifi
 | **Issue Date:** | 02 July, 2022                                  |
 
 ![mte_project](./contents/award/mte_22_lfr.jpg)
-
----
-
----
-
----
-
----
 
 ---
 
