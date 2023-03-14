@@ -4,6 +4,17 @@ This repository is a gallery where I store the digital copy of all of my certifi
 
 ## **Courses**
 
+### **Advanced Learning Algorithms**
+
+|                 |                                       |
+| --------------- | ------------------------------------- |
+| **Issuer:**     | Stanford University & Deeplearning.ai |
+| **Platform:**   | Coursera                              |
+| **Score:**      | 100%                                  |
+| **Issue Date:** | 14 March, 2023                        |
+
+![course_certificate](./contents/course/coursera_ml_2.png)
+
 ### **Supervised Machine Learning: Regression & Classification**
 
 |                 |                                       |
