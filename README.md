@@ -26,6 +26,16 @@ This repository is a gallery where I store the digital copy of all of my certifi
 
 ![course_certificate](./contents/course/coursera_ml_1.png)
 
+### **Data Visualization**
+
+|                 |                                       |
+| --------------- | ------------------------------------- |
+| **Issuer:**     | Kaggle |
+| **Platform:**   | Kaggle                              |
+| **Issue Date:** | 05 September, 2023                        |
+
+![course_certificate](./contents/course/Nazib%20Abrar%20-%20Data%20Visualization.png)
+
 ---
 
 ---
